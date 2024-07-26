@@ -1,2 +1,2 @@
 # odin-recipes
-test simple recipe
+Simple website to display recipes to learn simple HTML commands
